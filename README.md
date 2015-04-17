@@ -17,7 +17,6 @@ Documentation options:
 Required parameters:
 
     -f      genome FASTA
-    -f      genome FASTA
     -q      CMAP inferred from assembly of BioNano molecule maps (query)
     -r      in silico CMAP (reference)
     -x      XMAP generated aligning the CMAP
