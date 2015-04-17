@@ -1,9 +1,9 @@
 SCRIPT
 
-    **BNGCompare.pl - **Script outputs summary stats from a FASTA and an in silico CMAP
-    (reference) of the same FASTA and a of a CMAP inferred from assembly of BioNano
-    molecule maps (query) as well as a summary of an XMAP generated aligning the
-    CMAPs.
+**BNGCompare.pl - ** Script outputs summary stats from a FASTA and an in silico CMAP
+(reference) of the same FASTA and a of a CMAP inferred from assembly of BioNano
+molecule maps (query) as well as a summary of an XMAP generated aligning the
+CMAPs.
 
 USAGE
 
