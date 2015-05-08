@@ -94,7 +94,7 @@ while (<$xmap>)
 }
 $breadth = $breadth/1000000;
 $total_length = $total_length/1000000;
-print $out " ,CMAP name,Breadth of alignment coverage for CMAP (Mb),Length of total alignment for CMAP (Mb)\n";
+print $out " ,XMAP name,Breadth of alignment coverage for CMAP (Mb),Length of total alignment for CMAP (Mb)\n";
 print $out "XMAP alignment,$filename,$breadth,$total_length\n\n";
 close ($out); 
 ###############################################################################
