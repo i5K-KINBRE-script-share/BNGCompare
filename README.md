@@ -1,6 +1,6 @@
 SCRIPT
 
-Cite as: Jennifer Shelton et al.. (2015). read-cleaning-format-conversion: read-cleaning-format-conversion tools Version 1.0.0. Zenodo. 10.5281/zenodo.17585. Fastq file tools
+Cite as: Jennifer Shelton and Zachary Sliefert (2015). BNGCompare: BNGCompare.pl Version 1.1. Zenodo. 10.5281/zenodo.17586
 
 [![DOI](https://zenodo.org/badge/12929/i5K-KINBRE-script-share/BNGCompare.svg)](http://dx.doi.org/10.5281/zenodo.17586)
 
