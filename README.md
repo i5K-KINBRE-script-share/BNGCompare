@@ -1,5 +1,9 @@
 SCRIPT
 
+Cite as: Jennifer Shelton et al.. (2015). read-cleaning-format-conversion: read-cleaning-format-conversion tools Version 1.0.0. Zenodo. 10.5281/zenodo.17585. Fastq file tools
+
+[![DOI](https://zenodo.org/badge/12929/i5K-KINBRE-script-share/BNGCompare.svg)](http://dx.doi.org/10.5281/zenodo.17586)
+
 **BNGCompare.pl -** Script outputs summary stats from a FASTA and an in silico CMAP
 (reference) of the same FASTA and a of a CMAP inferred from assembly of BioNano
 molecule maps (query) as well as a summary of an XMAP generated aligning the
